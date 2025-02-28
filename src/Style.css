@@ -1253,7 +1253,7 @@ body {
   margin-top: 60px;
 }
 .learnmorebgimage .learnmore {
-  padding: 30px;
+  padding: 35px;
 }
 .learnmorebgimage .learnmore .lernmoreright {
   margin-left: 109px;
@@ -1531,7 +1531,8 @@ body {
   }
   .paymentsection .payment .paymentbgcolor .paymentleft .pleft2 {
     max-width: 70%;
-    right: 69px !important;
+    right: 63px !important;
+    height: 180px;
   }
   .paymentsection .payment .paymentbgcolor .paymentright {
     margin-left: 0;

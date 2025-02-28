@@ -58,7 +58,7 @@ function Footer() {
               </ul>
             </div>
 
-            <div className="">
+            <div>
               <h5>Social Media</h5>
               <ul className="list-unstyled">
                 <li>

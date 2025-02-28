@@ -23,15 +23,15 @@
   }
   .navbar-nav .nav-link,
   .navbar-nav .nav-ittem {
-    text-decoration: none !important; /* Removes underline */
-    color: white !important; /* Ensures text is white */
+    text-decoration: none !important;
+    color: white !important;
     font-weight: 500;
     transition: color 0.3s ease-in-out;
   }
 
   .navbar-nav .nav-link:hover,
   .navbar-nav .nav-ittem:hover {
-    color: #2fb574 !important; /* Change to desired hover color */
+    color: #2fb574 !important;
     text-decoration: none !important;
     font-weight: bold;
   }
@@ -44,12 +44,12 @@
     font-family: var(--font-Montserrat);
     font-size: 16px;
     .nav-ittem {
-      text-decoration: none !important; /* Removes underline */
-      color: white !important; /* Ensures text is white */
+      text-decoration: none !important;
+      color: white !important;
     }
     &:hover,
     &.active {
-      color: var(--white) !important;
+      color: #28a745 !important;
       font-weight: bold;
     }
   }

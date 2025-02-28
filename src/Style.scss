@@ -1403,7 +1403,7 @@ body {
   background-image: url("../public/Assets/background-08.png");
   margin-top: 60px;
   .learnmore {
-    padding: 30px;
+    padding: 35px;
     .lernmoreright {
       margin-left: 109px;
       align-content: center;
@@ -1606,8 +1606,8 @@ body {
         input {
           border-radius: 100px;
           padding: 10px;
-          width: 80%; // Use percentage instead of vh
-          max-width: 320px; // Prevents it from getting too large on bigger screens
+          width: 80%;
+          max-width: 320px;
           height: 38px;
         }
 
@@ -1718,7 +1718,8 @@ body {
           }
           .pleft2 {
             max-width: 70%;
-            right: 69px !important;
+            right: 63px !important;
+            height: 180px;
           }
         }
 

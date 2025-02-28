@@ -8,9 +8,9 @@ function Header() {
       <section>
         <nav className="navbar navbar-expand-lg container-fluid">
           <div className="container">
-            <a className="navbar-brand" href="#">
+            <Link className="navbar-brand" to="">
               <img src="./Assets/Headerlogo.png" alt="Logo" />
-            </a>
+            </Link>
 
             <button
               style={{ backgroundColor: "#2fb574", marginLeft: "122px" }}
